@@ -1,10 +1,15 @@
 ---
-title: "Sobre"
-permalink: /sobre/
+title: "BragionCorp Apps e Serviços"
+excerpt: "Principais Apps e Serviços da Organização."
+categories:
+  - BragionCorp
+tags:
+  - BragionCorp
+
 toc: true
 ---
 
-# Esse é o site oficial da organização BragionCorp.
+# BragionCorp
 
 ## Confira nossos apps e sites, respectivamente:
 
