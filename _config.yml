@@ -12,27 +12,27 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "BieAnimaton"
+title                    : "BragionCorp"
 title_separator          : "-"
-subtitle                 : "Meu site pessoal."
-name                     : "BieAnimaton"
-description              : "Um site onde vou compartilhar um pouco sobre mim e minhas descobertas."
-url                      : "https://bieanimaton.github.io"
+subtitle                 : "Organização"
+name                     : "BragionCorp"
+description              : "Site dedicado para a organização."
+url                      : "https://bragioncorp.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/avatar.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/avatar.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "bieanimaton" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "bragioncorp" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,18 +104,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "BieAnimaton"
-  avatar           : "/assets/images/avatar.png"
+  name             : "BragionCorp"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Computer Science, Cyber Security, Red Team, Hardware Hacking, CPIA, CRTA, CRTSv2, CRT-COI, CRT-ID, MITRE ATT&CK."
   location         : "World"
-  email            : "gcbragion@email.com"
+  email            : "bragioncorp@email.com"
   links:
     - label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:gcbragion@email.com"
+      #url: "mailto:bragioncorp@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://bragioncorp.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/BieAnimaton/"
+      url: "https://github.com/bragioncorp"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,13 +140,13 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/BieAnimaton/"
+      url: "https://github.com/bragioncorp"
     - label: "LinkedIn Profile"
       # icon: "fab fa-fw fa-linkedin"
       # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://bieanimaton.github.io/"
+      url: "https://bragioncorp.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
