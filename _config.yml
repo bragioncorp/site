@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "pt-BR"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "BragionCorp"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Computer Science, Cyber Security, Red Team, Hardware Hacking, CPIA, CRTA, CRTSv2, CRT-COI, CRT-ID, MITRE ATT&CK."
+  bio              : "Site da Organização."
   location         : "World"
   email            : "bragioncorp@email.com"
   links:
@@ -115,7 +115,7 @@ author:
       #url: "mailto:bragioncorp@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://bragioncorp.com/"
+      url: "https://bieanimaton.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
